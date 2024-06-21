@@ -2,4 +2,8 @@
 title: "About"
 ---
 
-Ansh K.
+## About Me
+My name is **Ansh Kare** i am from *Green Level high school*
+
+[Kane's Free Data Science Bootcamp](https://bootcamp.davidkane.info)
+
